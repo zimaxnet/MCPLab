@@ -1,6 +1,7 @@
 # AI Development Tools Handbook 2025
 
 *A Comprehensive Guide to 10 Essential AI-Powered Development Tools*
+based on list from https://x.com/cjzafir/status/1933934217823736140
 
 ## Table of Contents
 
